@@ -1,28 +1,21 @@
-# This is a large heading
+# This is a practice Markdown doc.
 
-## This is a smaller heading
+##Kuntal Talit
+###University of California Merced
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+-PhD candidate in Physics
+-Masters in Materials Engineering
+-Masters in Applied Physics
+-Application developer at IBM
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
+I love the online learning approach at `coursera` and `udemy'
 
 ```
-This is
-a block
-of code
+Need less to
+say that this is 
+one of the best thing 
+happend in education sector.
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
