@@ -9,7 +9,7 @@
 - Application developer at IBM
 
 
-I love the online learning approach at `coursera` and `udemy'
+I love the online learning approach at `coursera` and `udemy`
 
 ```
 Need less to
